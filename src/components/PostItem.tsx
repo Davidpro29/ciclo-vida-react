@@ -1,4 +1,4 @@
-import {Post} from '../assets/types/Post'
+import {Post} from '../types/Post'
 
 type Props = {
     data: Post
