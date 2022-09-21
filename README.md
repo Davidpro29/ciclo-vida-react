@@ -7,6 +7,6 @@ Função async <br/>
 
 <hr>
 
-Implememtação do axios <br/>
+Implementação do axios <br/>
 ![axios](https://user-images.githubusercontent.com/89535654/191538198-07f0398e-96a7-4f96-9130-56a45a0d7550.png)
 
